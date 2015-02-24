@@ -11,6 +11,9 @@
     <feature name="LocalNotification">
         <param name="android-package" value="de.appplant.cordova.plugin.localnotification.LocalNotification" />
     </feature>
+    <feature name="SQLitePlugin">
+        <param name="android-package" value="org.pgsqlite.SQLitePlugin" />
+    </feature>
     <name>financeApp</name>
     <description>
         An Ionic Framework and Cordova project.

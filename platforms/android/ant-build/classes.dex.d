@@ -1,4 +1,10 @@
 /var/www/html/financeApp/platforms/android/ant-build/classes.dex : \
+/var/www/html/financeApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$1.class \
+/var/www/html/financeApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin.class \
+/var/www/html/financeApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$DBRunner.class \
+/var/www/html/financeApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$Action.class \
+/var/www/html/financeApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$DBQuery.class \
+/var/www/html/financeApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$QueryType.class \
 /var/www/html/financeApp/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
 /var/www/html/financeApp/platforms/android/ant-build/classes/de/appplant/cordova/plugin/localnotification/Receiver.class \
 /var/www/html/financeApp/platforms/android/ant-build/classes/de/appplant/cordova/plugin/localnotification/ReceiverActivity.class \

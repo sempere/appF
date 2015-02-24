@@ -10,3 +10,6 @@
 # view AndroidManifest.xml #generated:13
 -keep class de.appplant.cordova.plugin.localnotification.Restore { <init>(...); }
 
+# view AndroidManifest.xml #generated:19
+-keep class org.pgsqlite.SQLitePlugin { <init>(...); }
+
